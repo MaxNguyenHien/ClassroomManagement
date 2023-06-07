@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Image/diskette.png</file>
+        <file>Image/engineering.png</file>
+        <file>Image/folders.png</file>
+        <file>Image/info.png</file>
+        <file>Image/logout.png</file>
+        <file>Image/plus.png</file>
+        <file>Image/trash.png</file>
+        <file>Image/xls.png</file>
+        <file>Image/male.png</file>
+        <file>Image/female.png</file>
+        <file>Image/update.png</file>
+        <file>Image/magnifying-glass.png</file>
+        <file>Image/back.png</file>
+        <file>Image/graph.png</file>
+        <file>Image/locked.png</file>
+        <file>Image/user.png</file>
+    </qresource>
+</RCC>
